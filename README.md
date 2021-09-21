@@ -1,4 +1,4 @@
-js junkie 🐡
+Sometimes I make things with NextJS 😵‍💫
 
 <!---
 Dristen/Dristen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

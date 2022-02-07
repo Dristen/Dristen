@@ -1,5 +1,5 @@
-Hobbyist React/NextJS developer
-Metal music aficionado 
+Hobbyist React/NextJS developer<br/>
+Metal music aficionado<br/>
 I like to make small 🔬, fun 🎉, clean 💅 apps
 <!---
 Dristen/Dristen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

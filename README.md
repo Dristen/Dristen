@@ -1,4 +1,4 @@
-Hobbyist Node / React / NextJS developer<br/>
+Hobbyist Node & NextJS developer<br/>
 Metal music aficionado<br/>
 Mostly interested in frontend design 💅
 <!---
